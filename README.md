@@ -66,13 +66,14 @@ hangman.py   # Main Python file containing the game logic
 
 
 #Example Gameplay
-'''bash
-Welcome to Hangman!  
-Guess the word one letter at a time.  
 
-Word: _ _ _ _ _  
+```bash
+Welcome to Hangman!
+Guess the word one letter at a time.
 
-Enter a letter: a  
-❌ Wrong guess.  
+Word: _ _ _ _ _
 
-Remaining attempts: 5  
+Enter a letter: a
+❌ Wrong guess.
+
+Remaining attempts: 5
