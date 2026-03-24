@@ -48,6 +48,8 @@ This is a beginner-friendly Python project that implements a basic version of th
 
 ## 📂 Project Structure  
 
+hangman.py   # Main Python file containing the game logic
+
 
 ---
 
