@@ -58,7 +58,7 @@ hangman.py   # Main Python file containing the game logic
 1. Install Python (if not already installed)  
 2. Clone this repository:  
    ```bash
-   git clone https://github.com/unknownmeh/CodeAlpha/hangman-game.git
+   git clone https://github.com/unknownmeh/CodeAlpha_Hangman
 3.Navigate to the folder:
     cd hangman-game
 4. Run the game:
